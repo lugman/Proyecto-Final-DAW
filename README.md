@@ -35,7 +35,7 @@ Aplicación en funcionamiento:
 ![](https://github.com/lugman/Proyecto-Final-DAW/blob/main/busqueda.png)
 
 ![](https://github.com/lugman/Proyecto-Final-DAW/blob/main/destacar-1.png)
-<p aling="center">
+<p align="center">
   <img src="https://github.com/lugman/Proyecto-Final-DAW/blob/main/destacar-2.png">
 </p>
 
