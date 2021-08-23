@@ -38,4 +38,4 @@ Aplicación en funcionamiento:
 
 ![](https://github.com/lugman/Proyecto-Final-DAW/blob/main/destacar-2.png)
 
-[![](https://github.com/lugman/Proyecto-Final-DAW/blob/main/memoria-1.png)]((https://raw.githubusercontent.com/lugman/Proyecto-Final-DAW/main/Memoria_Lugman.pdf))
+[![](https://github.com/lugman/Proyecto-Final-DAW/blob/main/memoria.png)]((https://raw.githubusercontent.com/lugman/Proyecto-Final-DAW/main/Memoria_Lugman.pdf))
