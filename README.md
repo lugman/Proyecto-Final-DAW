@@ -44,4 +44,3 @@ Imágenes
 
 -[Ver Memoria del proyecto](https://raw.githubusercontent.com/lugman/Proyecto-Final-DAW/main/Memoria_Lugman.pdf)
 
-[![](https://github.com/lugman/Proyecto-Final-DAW/blob/main/memoria.png)]((https://raw.githubusercontent.com/lugman/Proyecto-Final-DAW/main/Memoria_Lugman.pdf))
