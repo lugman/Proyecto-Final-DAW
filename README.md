@@ -31,3 +31,11 @@ Diseño Base de datos:
 Aplicación en funcionamiento:
 
 ![](https://github.com/lugman/Proyecto-Final-DAW/blob/main/buscar.png)
+
+![](https://github.com/lugman/Proyecto-Final-DAW/blob/main/busqueda.png)
+
+![](https://github.com/lugman/Proyecto-Final-DAW/blob/main/destacar-1.png)
+
+![](https://github.com/lugman/Proyecto-Final-DAW/blob/main/destacar-2.png)
+
+[![](https://github.com/lugman/Proyecto-Final-DAW/blob/main/memoria-1.png)]((https://raw.githubusercontent.com/lugman/Proyecto-Final-DAW/main/Memoria_Lugman.pdf))
