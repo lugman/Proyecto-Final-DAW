@@ -22,7 +22,12 @@ selección.
 
 -[Aplicación móvil(android)](https://github.com/lugman/Proyectos-DAW/tree/main/Aplicacion-movil-proyecto-final-daw)
 
-Imagenes
+Imágenes
 ---
 
+Diseño Base de datos:
 ![](https://github.com/lugman/Proyecto-Final-DAW/blob/main/dise%C3%B1o-bd.png)
+
+Aplicación en funcionamiento:
+
+![](https://github.com/lugman/Proyecto-Final-DAW/blob/main/buscar.png)
