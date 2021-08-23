@@ -25,12 +25,12 @@ selección.
 Imágenes
 ---
 
-Diseño Base de datos:
+***Diseño Base de datos:***
 <p align="center">
   <img src="https://github.com/lugman/Proyecto-Final-DAW/blob/main/dise%C3%B1o-bd.png">
 </p>
 
-Aplicación en funcionamiento:
+***Funcionamiento:***
 <p align="center">
   <img src="https://github.com/lugman/Proyecto-Final-DAW/blob/main/buscar.png">
 </p>
