@@ -35,7 +35,9 @@ Aplicación en funcionamiento:
 ![](https://github.com/lugman/Proyecto-Final-DAW/blob/main/busqueda.png)
 
 ![](https://github.com/lugman/Proyecto-Final-DAW/blob/main/destacar-1.png)
+<p aling="center">
+  <img src="https://github.com/lugman/Proyecto-Final-DAW/blob/main/destacar-2.png">
+</p>
 
-![](https://github.com/lugman/Proyecto-Final-DAW/blob/main/destacar-2.png)
-
+Ver memoria:
 [![](https://github.com/lugman/Proyecto-Final-DAW/blob/main/memoria.png)]((https://raw.githubusercontent.com/lugman/Proyecto-Final-DAW/main/Memoria_Lugman.pdf))
