@@ -26,11 +26,14 @@ Imágenes
 ---
 
 Diseño Base de datos:
-![](https://github.com/lugman/Proyecto-Final-DAW/blob/main/dise%C3%B1o-bd.png)
+<p align="center">
+  <img src="https://github.com/lugman/Proyecto-Final-DAW/blob/main/dise%C3%B1o-bd.png">
+</p>
 
 Aplicación en funcionamiento:
-
-![](https://github.com/lugman/Proyecto-Final-DAW/blob/main/buscar.png)
+<p align="center">
+  <img src="https://github.com/lugman/Proyecto-Final-DAW/blob/main/buscar.png">
+</p>
 
 ![](https://github.com/lugman/Proyecto-Final-DAW/blob/main/busqueda.png)
 
