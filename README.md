@@ -20,6 +20,6 @@ selección.
 
 -[Memoria del proyecto](https://raw.githubusercontent.com/lugman/Proyecto-Final-DAW/main/Memoria_Lugman.pdf)
 
--![Aplicación móvil(android)](https://github.com/lugman/Proyectos-DAW/tree/main/Aplicacion-movil-proyecto-final-daw)
+-[Aplicación móvil(android)](https://github.com/lugman/Proyectos-DAW/tree/main/Aplicacion-movil-proyecto-final-daw)
 
 
