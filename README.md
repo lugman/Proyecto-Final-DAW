@@ -18,7 +18,7 @@ anuncios y por tanto poder contactar con el vendedor, así como guardarse una li
 de  sus  favoritos  para  poder  seleccionar  o  tener  los  anuncios  que  desee  en  su 
 selección. 
 
--![Memoria del proyecto](https://raw.githubusercontent.com/lugman/Proyecto-Final-DAW/main/Memoria_Lugman.pdf)
+-Memoria del proyecto(https://raw.githubusercontent.com/lugman/Proyecto-Final-DAW/main/Memoria_Lugman.pdf)
 
 -![Aplicación móvil(android)](https://github.com/lugman/Proyectos-DAW/tree/main/Aplicacion-movil-proyecto-final-daw)
 
