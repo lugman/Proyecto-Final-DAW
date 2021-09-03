@@ -1,0 +1,20 @@
+.IconosCategorias img {
+    width: 45px;
+}
+.IconosCategorias h3 {
+    font-size: 1.1em;
+    color: #F95959;
+    font-weight: bold;
+}
+.IconosCategorias > div{
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.IconosCategorias .col:hover {
+    background-color: rgba(125, 125, 125, 0.4);
+    border-radius: 5px;
+    cursor: pointer;
+}

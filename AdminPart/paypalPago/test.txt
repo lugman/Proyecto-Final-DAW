@@ -1,0 +1,33 @@
+POST------------------- 
+transaction_subject =>  
+payment_date => 11:33:40 May 13, 2018 PDT 
+txn_type => web_accept 
+last_name => Martinez 
+residence_country => ES 
+item_name => Anuncio Destacado 
+payment_gross =>  
+mc_currency => EUR 
+business => re-ofertas@gmail.com 
+payment_type => instant 
+protection_eligibility => Eligible 
+verify_sign => A9Nprj3doMx2d4DksReaViE0L7UjAz4spRO2ed6.q0.YqWMO9dfATHPV 
+payer_status => verified 
+test_ipn => 1 
+tax => 0.32 
+payer_email => Juanjo@gmail.com 
+txn_id => 9KN31498RS088634N 
+quantity => 1 
+receiver_email => re-ofertas@gmail.com 
+first_name => Juan 
+payer_id => R7BKNP7H8EUM2 
+receiver_id => SU252VLM3ZT5Q 
+item_number => AnuncioDes 
+payment_status => Completed 
+payment_fee =>  
+mc_fee => 0.41 
+mc_gross => 1.82 
+custom => Anunci1 
+charset => windows-1252 
+notify_version => 3.9 
+ipn_track_id => 5fbb780112b5c 
+GETS------------------- 

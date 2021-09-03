@@ -1,0 +1,12 @@
+@media screen and (max-width: 786px ){
+  .catPadre {
+    width: 100% !important;
+  }
+  .poner_foto{
+    margin: 5px !important;
+  }
+  /* .tamDP {
+    width: 85%;
+
+  } */
+}

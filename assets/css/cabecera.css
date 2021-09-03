@@ -1,0 +1,36 @@
+#Salir_session span{
+      background-color: #5e5e5e !important;
+      display: block !important;
+      color: rgb(237, 246, 235);
+      margin: auto;
+      text-align: center;
+      cursor: pointer;
+      display: none;
+      margin: 5px !important;
+      margin: auto !important;
+
+}
+#Salir_session {
+      margin-bottom: -35px;
+      margin: auto;
+      padding-bottom: -35px;
+}
+.DropSalir {
+      color: rgb(255, 255, 255);
+      cursor: pointer;
+      /* display: none; */
+      padding:0px !important;
+      padding-bottom: -10px !important;
+
+}
+.DropSalir  li{
+      color: rgb(255, 255, 255);
+      margin: 5px !important;
+}
+
+
+.logo_menu{
+  background: url(../images/logo.jpg);
+  width: 200px;
+  height: 60px;
+}

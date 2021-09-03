@@ -1,0 +1,2 @@
+------Mensaje----
+<p> <span style="color: #3366ff;"><strong>Enhorabuena acaba de registrarse en Re-ofertas con &eacute;xito.</strong></span></p> <p>Por favor confirme nos que es este su correo pinchando en este enlace. <span style="color: #339966;"><a style="color: #339966;" href="reofertas.esy.es/Proyecto/validate.php?cod=d94c349680de76648cd08f694acb9acd&token=265ab3ee7432d17faa5c4325856f6e2f&Id=22">Confirmar que este es mi correo.</a> </span></p>Enviado Ok

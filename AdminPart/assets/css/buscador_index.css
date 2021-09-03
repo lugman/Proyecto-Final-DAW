@@ -1,0 +1,17 @@
+#panel_busqueda{
+  padding-top:70px;
+  padding-bottom: 70px;
+  background-color: #d1e2ec;
+  color: rgb(43, 43, 43);
+}
+#panel_busqueda select,#panel_busqueda input{
+  border: 0.4px solid   rgb(79, 79, 79);
+}
+.desBuscar{
+  color:rgb(26, 26, 26);
+}
+.botonBuscarCont{
+  height: 100%;
+
+}
+#panel_busqueda ::placeholder,#panel_busqueda select { color: rgb(0, 0, 0) }

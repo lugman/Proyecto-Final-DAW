@@ -1,0 +1,495 @@
+.ModAnuncio input,.ModAnuncio select,.ModAnuncio textarea{
+  margin-top: 5px;
+}
+
+.separator{
+  margin-top: 15px;
+  margin-bottom:50px;
+}
+#modPrecio::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: black;
+    text-align: right;
+    }
+  .fav{
+      cursor: pointer;
+    }
+.AnuncioDestacado:nth-child(1){
+  margin-left: 0px;
+}
+.tituloAnuncios{
+  background-color: #b6d5e7;
+  padding: 20px;
+  margin: 0px;
+}
+.conDest{
+  /* background-color: rgb(255, 255, 255); */
+  margin-bottom: 20px;
+  border: 2px solid #b6d5e7;
+  padding: 10px;
+  word-wrap: break-word;
+  border-radius: 3px;
+
+}
+
+
+
+/* #slider-range {
+    width: 280px;
+    margin-left: -30px;
+}
+.ui-slider-handle.ui-corner-all.ui-state-default {
+    width: 8px;
+} */
+
+.tituloDes{
+  font-size: 1.7em;
+font-weight: bold;
+margin-top: 15px;
+color: #054492;
+word-wrap: break-word;
+
+}
+.imgUsuario{
+  border-radius: 15px;
+  height: 10px;
+}
+.AnuncioDestacado img{
+  max-height: 260px;
+}
+.AnuncioDestacado{
+  margin-bottom: 20px;
+      border: 2px solid #b6d5e759;
+      padding: 10px;
+      background-color: #b6d5e74a;
+      word-wrap: break-word;
+      display: flex;
+      height: 450px;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      border-radius: 5px;
+}
+.colsFlex{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.Anuncio .col,.Anuncio .col .row{
+  position: static !important;
+}
+
+.Anuncio {
+  background-color: #d1e2ec;
+    border-radius: 3px;
+    padding: 7px;
+    color: rgb(0, 0, 0);
+    margin-bottom: 10px;
+    margin-left: 25px;
+    height: 300px;
+    box-shadow: 5px 6px 3px -3px #0831619c;
+}
+.Anuncio img{
+  width: 150px;
+  max-height: 150px;
+  width: 230px;
+max-height: 180px;
+border: 1px solid rgb(79, 79, 79);
+}
+.conImag{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+}
+.Anuncio .fav i
+{
+  font-size: 2em;
+}
+.Anuncio .Desc
+{
+  /* height: 130px; */
+  overflow: hidden;
+  word-wrap: break-word;
+
+
+}
+.Anuncio .Desc h4{
+  font-size: 0.9em;
+  margin: 0px;
+  text-align: justify;
+  padding-right:10px;
+
+}
+.Anuncio .titulo{
+  font-weight:bold;
+  border: 1px solid rgba(37, 37, 37, 0.37);
+  border-radius: 2px;
+  word-wrap: break-word;
+
+  padding: 10px;
+
+}
+.Anuncio h5,.Anuncio h3,.Anuncio h6{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.verA{
+  background-color: rgba(#ffe8ff, 0.32);
+  /* color: rgb(28, 26, 189); */
+   margin-top: -10px; */
+
+}
+.verAnuncio{
+
+  background-color: #f95959;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  width: 200px;
+  border-radius: 15px;
+}
+.verAnuncio small{
+  text-align: right;
+
+  font-size: .6em;
+}
+.imagClase{
+    max-width: 300px;
+    max-height: 300px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.conimagClase{
+  position: relative;
+  display: inline-block;
+  width: 23%;
+  height: 200px;
+  margin-left: 1%;
+  margin-right: 1%;
+}
+.botones{
+  position: absolute;
+  top: 10;
+  right: 0;
+}
+.precioC{
+  font-weight: bolder;
+font-size: 1.5em;
+}
+.Anuncio .usuario{
+   margin-top: 20px;
+
+  margin-right: 20px;
+  /* position: absolute;
+  bottom: 10px; */
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 5px;
+  border-radius: 9px;
+    background-color: #c2dbea;
+    border: 1.5px solid #316f9470;
+}
+
+.Anuncio .usuario img{
+width: 50px;
+height: 50px;
+margin-left:  15px;
+border-radius: 200%;
+}
+.Anuncio .usuario h6{
+  margin: 0px;
+}
+.Anuncio .usuario h6:first{
+padding-top: 25px;
+margin-bottom: 5px;
+}
+.botonVer{
+  padding: 2px !important;
+}
+
+.inputAjustado{
+  display: inline;
+  width: auto;
+
+margin: 2px;
+
+padding: 2px;
+
+height: auto;
+}
+.AnuncioPoner{
+  margin-left: 25%;
+margin-top: 15%;
+margin-bottom: 15%;
+}
+.ModAnuncio{
+  max-height: 800px;
+padding: 10px;
+height: auto;
+}
+.tamDP{
+  margin-bottom: 10px;
+}
+@media screen and (max-width: 1200px){
+  .margin-top-10-m{
+    margin-top: 10px;
+  }
+  .margin-bottom-10-m{
+    margin-bottom: 10px;
+  }
+  .Anuncio:nth-child(1){
+    margin-top: 20px;
+  }
+.Anuncio{
+  width: 100%;
+  height: 400px;
+}
+.Anuncio img{
+max-height: 150px;
+width: 200px;
+max-height: 180px;
+border: 1px solid rgb(79, 79, 79);
+}
+}
+
+@media screen and (max-width: 990px ){
+  .Anuncio:nth-child(1){
+    margin-top: 20px;
+  }
+  .contenedorAnuncios{
+    padding: 10px;
+  }
+.Anuncio{
+
+  width: 100%;
+  height: auto;
+  margin-left: 0px;
+  padding-bottom: 200px;
+
+}
+.Anuncio .usuario {
+  margin-top: 10px;
+  width: 80% !important;
+}
+.titulo{
+  margin: 5px;
+}
+
+#contenedorCategorias
+{
+  padding: 5px;
+}
+.filtro1 input,.filtro1 select
+{
+  width: 90% !important;
+  margin: 5px;
+  margin-left: 5% !important;
+  margin-right: 5% !important;
+}
+.categoriasSelec
+{
+  width: 90% !important;
+  margin: 5px;
+  margin-left: 5% !important;
+  margin-right: 5% !important;
+}
+#buscar{
+  width: 90% !important;
+
+  margin-left: 5% !important;
+  margin-right: 5% !important;
+}
+#contenedorCaracteristicas{
+
+  padding-top: 30px;
+}
+
+
+.Anuncio .usuario h6{
+  margin-top: 10px;
+  padding-top: 5px;
+}
+  .Anuncio img{
+    /* width: 80px; */
+    /* max-height: 80px; */
+
+  }
+  .Anuncio .usuario img{
+  width: 30px;
+  height: 30px;
+  margin-left:  15px;
+  border-radius: 200%;
+  }
+
+}
+#slides {
+    display:none;
+    width: 100%;
+    max-width: 1000px;
+    margin-top: 20px;
+    margin: auto;
+  }
+#slides img{
+  /* transform: scale(0.98); */
+  height: 100%;
+}
+
+
+
+    #slides .slidesjs-navigation {
+      margin-top:3px;
+    }
+
+    #slides .slidesjs-previous {
+      margin-right: 5px;
+      float: left;
+    }
+
+    #slides .slidesjs-next {
+      margin-right: 5px;
+      float: left;
+    }
+
+    .slidesjs-pagination {
+      margin: 6px 0 0;
+      float: right;
+      list-style: none;
+    }
+
+    .slidesjs-pagination li {
+      float: left;
+      margin: 0 1px;
+    }
+
+    .slidesjs-pagination li a {
+      display: block;
+      width: 13px;
+      height: 0;
+      padding-top: 13px;
+      background-image: url(/img/pagination.png);
+      background-position: 0 0;
+      float: left;
+      overflow: hidden;
+    }
+
+    .slidesjs-pagination li a.active,
+    .slidesjs-pagination li a:hover.active {
+      background-position: 0 -13px
+    }
+
+    .slidesjs-pagination li a:hover {
+      background-position: 0 -26px
+    }
+
+    #slides a:link,
+    #slides a:visited {
+      color: #333
+    }
+
+    #slides a:hover,
+    #slides a:active {
+      color: #9e2020
+    }
+.slidesjs-previous {
+  margin: 0px!important;
+  padding: 0px!important;
+font-size: 1.2em;
+  width: 10%!important;
+
+  margin-right:82%!important;
+}
+.slidesjs-text{
+  padding: 0px!important;
+
+  margin: 0px!important;
+  width: 10%!important;
+
+}
+    .navbar {
+      overflow: hidden
+    }
+
+    .TituloAnuncio{
+    border: 0.5px solid rgb(190, 195, 203);
+    border-radius: 4px;
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+    }
+    .UsaAnuncio{
+      background-color: #c2dbea !important;
+      border-radius: 7px;
+      padding: 5px;
+      border:2px solid rgb(58, 70, 91);
+    }
+    .UsaAnuncio img{
+      width: 75px;
+    }
+    .banner{
+      margin: 50px;
+    }
+    .usAnVerf {
+      /* border:1px solid blue; */
+      border-radius: 3px;
+      width: 225px;
+      padding: 7px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .usAnVerf small{
+font-weight: bold;
+margin-left: 5px;
+    }
+    .usAnVerf img{
+      border: 0px!important;
+      border-radius: 0px !important;
+      width:16px !important;
+      height:16px !important;
+    }
+    .ContactoAnuncioCont{
+      padding: 35px;
+background-color: #f0f0f0;
+border-radius: 4px;
+    }
+    .DesAnuncioCon{
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+
+    .textosAnuncio{
+      padding-left: 10px;
+      padding-right:  10px;
+      word-wrap: break-word;
+    }
+    .font35{
+      font-size: 35px;
+      top: 48%;
+    }
+    .rightBut{
+      left: 50px;
+    }
+    .leftBut{
+      right:50px !important;
+    }
+    .Anuncio2{
+      margin: 0px;
+      margin-bottom: 15px;
+    }
+    .anuncioosUsuario{
+      margin-top: 20px;
+    }
+    .bloqueado{
+    background-color: #343434 !important;
+    }
+    .vendido{
+      background-color: #d1e2ec4f;
+
+    }

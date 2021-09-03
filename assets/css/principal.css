@@ -1,0 +1,676 @@
+/*  Cookies */
+
+.Cont1Us{
+  padding: 15px;
+  background-color:#00000082;
+}
+#contenedorCaracteristicas label{
+
+  color: rgb(22, 22, 22) !important;
+}
+
+.selectAct option{
+  background-color: white;
+  color: black;
+}
+.filtro1 select,.filtro1 input{
+  padding: 2px !important;
+  border-radius: 1px;
+}
+.filtro1{
+  background-color: #d1e2ec;
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+.imagen-dni {
+  list-style: none;
+  background-color: #92abb7;
+  display: flex;
+  border: 2px solid black;
+  justify-content: space-around;
+  margin-bottom: 10px;
+  color: black;
+  padding: 5px;
+  position: relative;
+}
+.verDni{
+  cursor: pointer;
+
+}
+.centerButonn{
+  position: absolute;
+  right: 1px;
+  margin-top: 10px;
+
+}
+.btn-success{
+  border-radius: 1px;
+  background-color: rgb(0, 122, 190);
+  color: rgb(0, 0, 0);
+}
+.imagen-dni h2{
+  display: inline-block;
+  margin-left:  50px;
+  font-size: 1.2em;
+  color:rgb(0, 0, 0);
+}
+.imagen-dni img{
+   height: 60px;
+}
+#barraaceptacion {
+    display:none;
+    position:fixed;
+    left:0px;
+    right:0px;
+    bottom:1px;
+    padding: 25px;
+    /* padding-bottom:20px; */
+    width:100%;
+    height: auto;
+    text-align:center;
+    min-height:auto;
+    background-color: rgba(112, 112, 112, 1);
+    color:#fff;
+    z-index:99999;
+    overflow: auto;
+
+}
+
+/* .inner {
+    width:100%;
+    position:absolute;
+    padding-left:5px;
+     font-size: 18px;
+    top:30%;
+} */
+
+.inner a.ok {
+    padding:14px;
+    color:#43e861;
+    text-decoration:none;
+}
+
+.inner a.info {
+    padding-left:5px;
+    text-decoration:none;
+    color:#000000;
+}
+
+.contenedor1 input,.contenedor1 textarea,.contenedor1 select{
+  border: 1px solid rgb(24, 24, 24);
+  color: rgb(24, 24, 24);
+  font-size: 1.2em;
+  background-color: rgba(246, 246, 246, 0.75);
+}
+.contenedor1 input::placeholder  ,.contenedor1 textarea::placeholder {
+  color: rgb(168, 168, 168);
+  font-size: 1.2em;
+  font-style: normal;
+}
+.contenedor1 label{
+  margin: 5px;
+  margin-top: 10px;
+}
+
+.poner_foto{
+  border: 1px solid rgb(24, 24, 24);
+  padding: 30px;
+  margin: 100px;
+}
+.cuerpoRegistro select:focus{
+  color: black;
+  border:1px solid  white;
+}
+.cuerpoRegistro select{
+  color: white;
+  border:1px solid  white;
+}
+.cuerpoRegistro {
+  width: 100%;
+  background: rgb(15, 27, 64);
+
+}
+#reg:hover{
+  color: white;
+  background-color: rgba(5, 64, 28, 0.87);
+  transform: scale(1.1);
+}
+#reg{
+  color: black;
+  background:rgb(5, 64, 28);
+  width: 100px;
+  transition: 0.3s;
+  padding: 7px;
+  border-radius: 2px;
+}
+.SeleccionText{
+  background-color:rgb(223, 217, 211);
+  padding-top:80px;
+  padding-bottom: 40px;
+}
+ #panel_busqueda select,#panel_busqueda input{
+  border:1px solid rgb(0, 0, 0);
+}
+#Salir_session span{
+  border-radius: 0px;
+  width: 80%;
+  margin: auto;
+}
+.cuerpoRegistro ,#tam{
+  color: rgb(208, 208, 208);
+
+}
+.cuerpoRegistro input {
+  color: rgb(208, 208, 208);
+  border: 1px solid rgb(208, 208, 208) ;
+
+}
+.filtro2 {
+  background-color: rgb(84, 84, 84);
+  padding-top: 20px;
+  padding-bottom:20px;
+  border-radius: 4px;
+
+}
+
+#seleccion_cat {
+    color:rgb(0, 0, 0);
+}
+.seleccion_cat {
+    color:rgb(250, 250, 250);
+    background-color:rgb(84, 84, 84) ;
+}
+.row.filtro2 h5{
+    margin: 2px;
+
+}
+.loginEntrar,.loginEntrar *{
+  color: rgb(255, 255, 255) !important;
+  text-align: center;
+}
+.UlA{
+  padding: 10px;
+  background-color: #3f3f3f;
+}
+.BorrarMiAnuncio{
+background-color: #771b1e;
+}
+.BotA{
+  padding: 7px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.ConIndAnuncio{
+  background-color: rgb(117, 117, 117);
+  margin-bottom: 15px;
+}
+.ConIndAnuncio .Anuncio{
+  margin: 0px;
+}
+.botonesE{
+  padding: 9px;
+border-radius: 4px;
+font-size: 1.2em;
+font-weight: bold;
+color: rgb(255, 255, 255) !important;
+}
+.EditarMiAnuncio{
+  background-color: #b0ba13;
+}
+.ErrLogin{
+  color: rgb(161, 10, 10)!important;
+}
+#amount{
+  text-align: center;
+  border:0;
+  background-color: transparent;
+  color:#F95A5A;
+  font-size: 1.3em;
+  font-weight:normal;
+}
+.row.filtro2 #slider-range{
+  background-color:rgb(158, 157, 158);
+  border-color: #F95A5A;
+
+}
+.row.filtro2 .ui-widget-header{
+  background-color:#F95A5A;
+  border-color: rgb(0, 0, 0);
+}
+.filtro1{
+  margin-bottom: 20px;
+}
+.centroAnuncios{
+  padding: 10px 100px;
+}
+@media screen and (max-width: 768px)
+{
+.centroAnuncios{
+  padding: 20px;
+  }
+}
+
+/*   Date Picker */
+
+
+.date-picker {
+  width: 260px;
+  height: auto;
+  max-height: 50px;
+  background: rgb(196, 196, 196);
+  position: relative;
+  overflow: hidden;
+  transition: all 0.3s 0s ease-in-out;
+}
+.date-picker .input {
+  width: 100%;
+  height: 50px;
+  font-size: 0;
+  cursor: pointer;
+}
+.date-picker .input .result, .date-picker .input button {
+  display: inline-block;
+  vertical-align: top;
+}
+.date-picker .input .result {
+  width: calc(100% - 50px);
+  height: 50px;
+  line-height: 50px;
+  font-size: 16px;
+  padding: 0 10px;
+  color: rgb(0, 0, 0);
+  box-sizing: border-box;
+}
+.date-picker .input button {
+  width: 50px;
+  height: 50px;
+  background-color: #8392A7;
+  color: white;
+  line-height: 50px;
+  border: 0;
+  font-size: 18px;
+  padding: 0;
+}
+.date-picker .input button:hover {
+  background-color: #68768A;
+}
+.date-picker .input button:focus {
+  outline: 0;
+}
+.date-picker .calendar {
+  position: relative;
+  width: 100%;
+  background: #fff;
+  border-radius: 0px;
+  overflow: hidden;
+}
+.date-picker .ui-datepicker-inline {
+  position: relative;
+  width: 100%;
+}
+.date-picker .ui-datepicker-header {
+  height: 100%;
+  line-height: 50px;
+  background: #8392A7;
+  color: #fff;
+  margin-bottom: 10px;
+}
+.date-picker .ui-datepicker-prev, .date-picker .ui-datepicker-next {
+  width: 20px;
+  height: 20px;
+  text-indent: 9999px;
+  border: 2px solid #fff;
+  border-radius: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  margin-top: 12px;
+}
+.date-picker .ui-datepicker-prev {
+  float: left;
+  margin-left: 12px;
+}
+.date-picker .ui-datepicker-prev:after {
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  margin: -43px 0px 0px 8px;
+}
+.date-picker .ui-datepicker-next {
+  float: right;
+  margin-right: 12px;
+}
+.date-picker .ui-datepicker-next:after {
+  -webkit-transform: rotate(-135deg);
+          transform: rotate(-135deg);
+  margin: -43px 0px 0px 6px;
+}
+.date-picker .ui-datepicker-prev:after, .date-picker .ui-datepicker-next:after {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 4px;
+  height: 4px;
+  border-left: 2px solid #fff;
+  border-bottom: 2px solid #fff;
+}
+.date-picker .ui-datepicker-prev:hover, .date-picker .ui-datepicker-next:hover, .date-picker .ui-datepicker-prev:hover:after, .date-picker .ui-datepicker-next:hover:after {
+  border-color: #68768A;
+}
+.date-picker .ui-datepicker-title {
+  text-align: center;
+  padding: 10px;
+}
+.date-picker .ui-datepicker-calendar {
+  width: 100%;
+  text-align: center;
+}
+.date-picker .ui-datepicker-calendar thead tr th span {
+  display: block;
+  width: 100%;
+  color: rgb(0, 0, 0);
+  margin-bottom: 5px;
+  font-size: 13px;
+}
+.date-picker .ui-state-default {
+  display: block;
+  text-decoration: none;
+  color: #b5b5b5;
+  line-height: 40px;
+  font-size: 12px;
+}
+.date-picker .ui-state-default:hover {
+  background: rgba(0, 0, 0, 0.02);
+}
+.date-picker .ui-state-highlight {
+  color: #68768A;
+}
+.date-picker .ui-state-active {
+  color: #68768A;
+  background-color: rgba(131, 146, 167, 0.12);
+  font-weight: 600;
+}
+.date-picker .ui-datepicker-unselectable .ui-state-default {
+  color: #eee;
+  border: 2px solid transparent;
+}
+.date-picker.open {
+  max-height: 500px;
+}
+.date-picker.open .input button {
+  background: #68768A;
+}
+
+/* Planes */
+
+.membership-pricing-table {
+  width: 920px;
+  margin:auto;
+}
+
+.membership-pricing-table table .icon-no,.membership-pricing-table table .icon-yes {
+  font-size: 22px
+}
+
+.membership-pricing-table table .icon-no {
+  color: #a93717
+}
+
+.membership-pricing-table table .icon-yes {
+  color: #209e61
+}
+
+.membership-pricing-table table .plan-header {
+  text-align: center;
+  font-size: 48px;
+  border: 1px solid #e2e2e2;
+  padding: 25px 0
+}
+
+.membership-pricing-table table .plan-header-free {
+  background-color: #eee;
+  color: #555
+}
+
+.membership-pricing-table table .plan-header-blue {
+  color: #fff;
+  background-color: #61a1d1;
+  border-color: #3989c6
+}
+
+.membership-pricing-table table .plan-header-standard {
+  color: #fff;
+  background-color: #ff9317;
+  border-color: #e37900
+}
+
+.membership-pricing-table table td {
+  text-align: center;
+  width: 15%;
+  padding: 7px 10px;
+  background-color: #fafafa;
+  font-size: 14px;
+  -webkit-box-shadow: 0 1px 0 #fff inset;
+  box-shadow: 0 1px 0 #fff inset
+}
+
+.membership-pricing-table table,.membership-pricing-table table td {
+  border: 1px solid #ebebeb
+}
+
+.membership-pricing-table table tr td:first-child {
+  background-color: transparent;
+  text-align: right;
+  width: 24%
+}
+
+.membership-pricing-table table tr td:nth-child(5) {
+  background-color: #FFF
+}
+
+.membership-pricing-table table tr:first-child td,.membership-pricing-table table tr:nth-child(2) td {
+  -webkit-box-shadow: none;
+  box-shadow: none
+}
+
+.membership-pricing-table table tr:first-child th:first-child {
+  border-top-color: transparent;
+  border-left-color: transparent;
+  border-right-color: #e2e2e2
+}
+
+.membership-pricing-table table tr:first-child th .pricing-plan-name {
+  font-size: 22px
+}
+
+.membership-pricing-table table tr:first-child th .pricing-plan-price {
+  line-height: 35px
+}
+
+.membership-pricing-table table tr:first-child th .pricing-plan-price>sup {
+  font-size: 45%
+}
+
+.membership-pricing-table table tr:first-child th .pricing-plan-price>span {
+  font-size: 30%
+}
+
+.membership-pricing-table table tr:first-child th .pricing-plan-period {
+  margin-top: -7px;
+  font-size: 25%
+}
+
+.membership-pricing-table table .header-plan-inner {
+  position: relative
+}
+
+.membership-pricing-table table .recommended-plan-ribbon {
+  box-sizing: content-box;
+  background-color: #dc3b5d;
+  color: #FFF;
+  position: absolute;
+  padding: 3px 6px;
+  font-size: 11px!important;
+  font-weight: 500;
+  left: -6px;
+  top: -22px;
+  z-index: 99;
+  width: 100%;
+  -webkit-box-shadow: 0 -1px #c2284c inset;
+  box-shadow: 0 -1px #c2284c inset;
+  text-shadow: 0 -1px #c2284c
+}
+
+.membership-pricing-table table .recommended-plan-ribbon:before {
+  border: solid;
+  border-color: #c2284c transparent;
+  border-width: 6px 0 0 6px;
+  bottom: -5px;
+  content: "";
+  left: 0;
+  position: absolute;
+  z-index: 90
+}
+
+.membership-pricing-table table .recommended-plan-ribbon:after {
+  border: solid;
+  border-color: #c2284c transparent;
+  border-width: 6px 6px 0 0;
+  bottom: -5px;
+  content: "";
+  right: 0;
+  position: absolute;
+  z-index: 90
+}
+
+.membership-pricing-table table .plan-head {
+  box-sizing: content-box;
+  background-color: #ff9c00;
+  border: 1px solid #cf7300;
+  position: absolute;
+  top: -33px;
+  left: -1px;
+  height: 30px;
+  width: 100%;
+  border-bottom: none
+}
+.DesAnuncioCont{
+  margin-top: 30px;
+  margin-bottom: 100px;
+}
+.VerificadoUusarioPerf {
+  border-radius: 3px;
+  text-align: center;
+  width: 60%;
+  background-color: rgba(186, 226, 182, 0.7);
+}
+.VerificadoUusarioPerf  h2 {
+  color: #036c2a !important;
+}
+.VerificadoUusarioPerf img{
+  width: 32px !important;
+}
+.NoVerificadoUusarioPerf {
+  border-radius: 3px;
+  text-align: center;
+  width: 60%;
+  background-color: rgba(241, 174, 174, 0.7);
+}
+.NoVerificadoUusarioPerf  h2 {
+  color: #a80500 !important;
+}
+.NoVerificadoUusarioPerf img{
+  width: 32px !important;
+}
+.Cont1Us{
+  padding: 15px;
+  background-color:#3f3f3f82;
+}
+.comment-box {
+    margin-top: 30px !important;
+}
+/* CSS Test end */
+
+.comment-box img {
+    width: 50px;
+    height: 50px;
+}
+.comment-box .media-left {
+    padding-right: 10px;
+    width: 65px;
+}
+.comment-box .media-body p {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+.comment-box .media-body .media p {
+    margin-bottom: 0;
+}
+.comment-box .media-heading {
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    padding: 7px 10px;
+    position: relative;
+    margin-bottom: -1px;
+}
+.comment-box .media-heading:before {
+    content: "";
+    width: 12px;
+    height: 12px;
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    border-width: 1px 0 0 1px;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    position: absolute;
+    top: 10px;
+    left: -6px;
+}
+div.stars {
+  width: 285px;
+  display: inline-block;
+}
+
+input.star { display: none; }
+
+label.star {
+  float: right;
+  padding: 10px;
+  font-size: 36px;
+  color: #444;
+  transition: all .2s;
+}
+
+input.star:checked ~ label.star:before {
+  content: '\f005';
+  color: #FD4;
+  transition: all .25s;
+}
+
+input.star-5:checked ~ label.star:before {
+  color: #FE7;
+  text-shadow: 0 0 20px #952;
+}
+.colDesc{
+  width: 34% !important;
+}
+
+
+input.star-1:checked ~ label.star:before { color: #F62; }
+
+label.star:hover { transform: rotate(-15deg) scale(1.3); }
+
+label.star:before {
+  content: '\f006';
+  font-family: FontAwesome;
+}
+.tituloAnuncioDest{
+  background-color: #e6e6e6;
+  padding: 20px;
+}
+.DesDest{
+  font-weight: 300;
+}
+.fondoPaypal{
+  background-color: #e8f0f4;
+    text-align: center;
+}
